@@ -1,0 +1,7 @@
+
+> weather-app@0.0.0 build
+> tsc -b && vite build
+
+src/components/Layout.tsx(1,8): error TS6133: 'React' is declared but its value is never read.
+src/pages/CurrentWeatherPage.tsx(1,8): error TS6133: 'React' is declared but its value is never read.
+src/pages/HistoricalWeatherPage.tsx(1,8): error TS6133: 'React' is declared but its value is never read.
