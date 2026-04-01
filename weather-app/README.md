@@ -38,7 +38,7 @@ A high-performance, responsive weather web application built with React, Vite, a
    ```bash
    npm run dev
    ```
-   Open `http://localhost:5173` to view the application in the browser.
+   Open `https://weather-app-9cpm.vercel.app/` to view the application in the browser.
 
 ## 🌐 Live Deployment
 *This application requires zero server-side setup or secret keys and can be deployed instantly to Vercel or Netlify by importing the GitHub repository.*
